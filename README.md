@@ -3,7 +3,7 @@ by aLaix.
 
 Pong4four is a pong game for 4 players with special moves.
 
-This is remake in python of a game I created while on college. The original game was made in Turbo C++ (hence the primitive graphics and sound). The original remake was made on python2 and later ported to python3.
+This is a remake in python of a game I created while on college. The original game was made in Turbo C++ (hence the primitive graphics and sound). The original remake was made on python2 and later ported to python3.
 
 ### Dependencies
 Pygame 2.0, Python 3.
